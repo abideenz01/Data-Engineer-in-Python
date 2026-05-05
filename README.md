@@ -177,7 +177,12 @@ Fundamentals → Logic → Data Structures → Built-ins → Pandas → PySpark 
 ## • Big Data: Apache Spark 
 ## • Databricks 
 ## • Cloud: Microsoft Azure
-## Specialties: • ETL/ELT Pipelines • Data Warehousing • Data Design Architecture • System Design • Performance Optimization
+## Specialties: 
+## • ETL/ELT Pipelines 
+## • Data Warehousing 
+## • Data Design Architecture 
+## • System Design 
+## • Performance Optimization
 ## 🚀 What I'm About:
 ## 📊 Building end-to-end data solutions from ingestion to visualization 
 ## ⚡ Optimizing Spark jobs to squeeze out every bit of performance 
