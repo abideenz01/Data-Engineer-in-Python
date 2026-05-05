@@ -9,3 +9,10 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Core-Data%20Structures-ff6f00?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Focus-Logic%20Building-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/Path-Beginner→Advanced-8A2BE2?style=for-the-badge&logo=progress&logoColor=white">
+
+</div>
