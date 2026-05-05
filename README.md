@@ -16,3 +16,8 @@
 <img src="https://img.shields.io/badge/Path-Beginner→Advanced-8A2BE2?style=for-the-badge&logo=progress&logoColor=white">
 
 </div>
+
+![Animated Badge](docs/gifs/badge-strip.gif)
+
+     
+\
